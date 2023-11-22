@@ -26,4 +26,4 @@
    - Description:* "_One Punch Man_ is an anime series based on the webcomic created by the artist ONE. It humorously depicts the life of Saitama, a hero who can defeat any opponent with a single punch, as he seeks meaning and excitement in his hero career."
 
 5. **Baki the Grappler**
-   - Short Description:* "_Baki the Grappler_ is an anime and manga series created by Keisuke Itagaki. It follows Baki Hanma, a skilled martial artist, as he engages in intense and often brutal martial arts tournaments against formidable opponents."
+   - Description:* "_Baki the Grappler_ is an anime and manga series created by Keisuke Itagaki. It follows Baki Hanma, a skilled martial artist, as he engages in intense and often brutal martial arts tournaments against formidable opponents."
