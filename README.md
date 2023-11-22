@@ -1,3 +1,2 @@
-
-** # MY Favorite Movies **
+# MY Favorite Movies **
 
